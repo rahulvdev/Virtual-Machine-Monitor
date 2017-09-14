@@ -1,0 +1,30 @@
+Virtual Machine metrics/statistics
+
+CPU usage in megaHertz at 2017-03-01 16:42:52
+138 190 132 167 197 262 139 136 127 133 
+MEM usage in megabytes at 2017-03-01 16:42:52
+995 995 995 995 995 995 995 994 994 995 
+Virtual Machine metrics/statistics
+
+CPU usage in megaHertz at 2017-03-01 16:43:02
+138 190 132 167 197 262 139 136 127 133 
+MEM usage in megabytes at 2017-03-01 16:43:02
+995 995 995 995 995 995 995 994 994 995 
+Virtual Machine metrics/statistics
+
+CPU usage in megaHertz at 2017-03-01 16:43:12
+190 132 167 197 262 139 136 127 133 244 
+MEM usage in megabytes at 2017-03-01 16:43:12
+995 995 995 995 995 995 994 994 995 995 
+Virtual Machine metrics/statistics
+
+CPU usage in megaHertz at 2017-03-01 16:43:23
+132 167 197 262 139 136 127 133 244 183 
+MEM usage in megabytes at 2017-03-01 16:43:23
+995 995 995 995 995 994 994 995 995 995 
+Virtual Machine metrics/statistics
+
+CPU usage in megaHertz at 2017-03-01 16:43:33
+132 167 197 262 139 136 127 133 244 183 
+MEM usage in megabytes at 2017-03-01 16:43:33
+995 995 995 995 995 994 994 995 995 995 
